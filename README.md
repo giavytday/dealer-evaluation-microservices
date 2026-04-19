@@ -1,3 +1,4 @@
+<img width="662" height="269" alt="app-demo" src="https://github.com/user-attachments/assets/0b26807a-4583-4e4d-a21d-a071ecdd34f8" />
 Dealer Evaluation Microservices System
 
 A cloud-native application built using a Microservices Architecture. This project demonstrates the deployment of multiple independent services (Python, Node.js, and HTML/JS) into a unified ecosystem using IBM Cloud Code Engine.
